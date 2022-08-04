@@ -174,8 +174,8 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war.",
- 	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
+ 	 	 	 	"trans": "People of Ukraine, Russia and the whole world are suffering because a man's ambition.\\n Make love exploit, not war.",
+ 	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because a man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
  	 	"bank": {
@@ -853,7 +853,7 @@
  	 	 	 	},
  	 	 	 	"addToFriend": {
  	 	 	 	 	"trans": "Add to Friend List",
- 	 	 	 	 	"eng": "add to Friend List"
+ 	 	 	 	 	"eng": "Add to Friend List"
  	 	 	 	},
  	 	 	 	"removeFromFriend": {
  	 	 	 	 	"trans": "Remove from Friend List",
