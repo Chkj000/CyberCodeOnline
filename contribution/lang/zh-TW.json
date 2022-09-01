@@ -92,7 +92,7 @@
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
- 	 	 	 	"trans": "資源緊張",
+ 	 	 	 	"trans": "資源緊縮",
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
@@ -5956,7 +5956,7 @@
  	 	 	 	"trans": "踢除",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "從幫派踢其他球員。",
+ 	 	 	 	 	"trans": "從幫派踢其他成員。",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
